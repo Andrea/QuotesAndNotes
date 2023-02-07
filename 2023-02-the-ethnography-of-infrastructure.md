@@ -1,3 +1,15 @@
+infra is:
+* Invisible until broken
+* Temporal 
+* Always a cost center ?
+* Message from leadership rarely applies to  infrastructure (ie codefreeze)
+* Most important paper many people read
+* as an expert you are less seen
+
+
+## Definition of Infrastructure
+
+
 
 ## One persons infrastructure is another’s topic
 
